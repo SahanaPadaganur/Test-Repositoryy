@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GroceryTracker.Application/GroceryTracker.Application.csproj" />
+  <Project Path="GroceryTracker.Domain/GroceryTracker.Domain.csproj" />
+  <Project Path="GroceryTracker.Infrastructure/GroceryTracker.Infrastructure.csproj" />
+  <Project Path="GroceryTrackerWebAPI/GroceryTrackerWebAPI.csproj" />
+</Solution>

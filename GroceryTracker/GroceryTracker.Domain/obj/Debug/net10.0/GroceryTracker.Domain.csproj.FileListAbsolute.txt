@@ -1,0 +1,14 @@
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\bin\Debug\net10.0\GroceryTracker.Domain.deps.json
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\bin\Debug\net10.0\GroceryTracker.Domain.runtimeconfig.json
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\bin\Debug\net10.0\GroceryTracker.Domain.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\bin\Debug\net10.0\GroceryTracker.Domain.pdb
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.csproj.AssemblyReference.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.AssemblyInfo.cs
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\refint\GroceryTracker.Domain.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.pdb
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\GroceryTracker.Domain.genruntimeconfig.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Domain\obj\Debug\net10.0\ref\GroceryTracker.Domain.dll

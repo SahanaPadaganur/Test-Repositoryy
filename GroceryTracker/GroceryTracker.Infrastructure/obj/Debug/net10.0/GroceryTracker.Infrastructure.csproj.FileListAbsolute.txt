@@ -1,0 +1,17 @@
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\bin\Debug\net10.0\GroceryTracker.Infrastructure.deps.json
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\bin\Debug\net10.0\GroceryTracker.Infrastructure.runtimeconfig.json
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\bin\Debug\net10.0\GroceryTracker.Infrastructure.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\bin\Debug\net10.0\GroceryTracker.Infrastructure.pdb
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\bin\Debug\net10.0\GroceryTracker.Domain.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\bin\Debug\net10.0\GroceryTracker.Domain.pdb
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryT.1DFDB632.Up2Date
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\refint\GroceryTracker.Infrastructure.dll
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.pdb
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\GroceryTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\padag\source\repos\GroceryTracker\GroceryTracker.Infrastructure\obj\Debug\net10.0\ref\GroceryTracker.Infrastructure.dll
