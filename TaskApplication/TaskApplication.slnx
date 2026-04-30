@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TaskApp.DAL/TaskApp.DAL.csproj" />
+  <Project Path="TaskApp.Model/TaskApp.Model.csproj" />
+  <Project Path="TaskApp.Service/TaskApp.Service.csproj" />
+  <Project Path="TaskApplicationWebAPI/TaskApplicationWebAPI.csproj" />
+</Solution>

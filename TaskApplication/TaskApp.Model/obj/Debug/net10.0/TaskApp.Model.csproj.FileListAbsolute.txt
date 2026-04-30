@@ -1,0 +1,11 @@
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\bin\Debug\net10.0\TaskApp.Model.deps.json
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\bin\Debug\net10.0\TaskApp.Model.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\bin\Debug\net10.0\TaskApp.Model.pdb
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\TaskApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\TaskApp.Model.AssemblyInfoInputs.cache
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\TaskApp.Model.AssemblyInfo.cs
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\TaskApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\TaskApp.Model.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\refint\TaskApp.Model.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\TaskApp.Model.pdb
+C:\Users\padag\source\repos\TaskApplication\TaskApp.Model\obj\Debug\net10.0\ref\TaskApp.Model.dll

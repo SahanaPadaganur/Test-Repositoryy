@@ -1,0 +1,17 @@
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\bin\Debug\net10.0\TaskApp.DAL.deps.json
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\bin\Debug\net10.0\TaskApp.DAL.runtimeconfig.json
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\bin\Debug\net10.0\TaskApp.DAL.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\bin\Debug\net10.0\TaskApp.DAL.pdb
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\bin\Debug\net10.0\TaskApp.Model.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\bin\Debug\net10.0\TaskApp.Model.pdb
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.csproj.AssemblyReference.cache
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.AssemblyInfoInputs.cache
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.AssemblyInfo.cs
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp..DFC034F7.Up2Date
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\refint\TaskApp.DAL.dll
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.pdb
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\TaskApp.DAL.genruntimeconfig.cache
+C:\Users\padag\source\repos\TaskApplication\TaskApp.DAL\obj\Debug\net10.0\ref\TaskApp.DAL.dll
