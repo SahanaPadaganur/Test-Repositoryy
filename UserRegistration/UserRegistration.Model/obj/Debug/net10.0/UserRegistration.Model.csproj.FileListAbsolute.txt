@@ -1,0 +1,11 @@
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\bin\Debug\net10.0\UserRegistration.Model.deps.json
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\bin\Debug\net10.0\UserRegistration.Model.dll
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\bin\Debug\net10.0\UserRegistration.Model.pdb
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\UserRegistration.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\UserRegistration.Model.AssemblyInfoInputs.cache
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\UserRegistration.Model.AssemblyInfo.cs
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\UserRegistration.Model.csproj.CoreCompileInputs.cache
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\UserRegistration.Model.dll
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\refint\UserRegistration.Model.dll
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\UserRegistration.Model.pdb
+C:\Users\padag\source\repos\UserRegistration\UserRegistration.Model\obj\Debug\net10.0\ref\UserRegistration.Model.dll
